@@ -82,7 +82,7 @@
                   <p>This Web Site is hosted, controlled and operated from the Republic of South Africa , and thus South African law governs the use or inability to use this Web Site and these terms and conditions.</p>
 
                   <p><b>CONTACT INFORMATION</b></p>
-                  <p>Any questions, queries, or requests to use any part of this Web Site can be directed to us via <a href="mailto:webmaster@Percentagecalculator.co.za?Subject=PrivacyPolicy" target="_top">email</a></p>
+                  <p>Any questions, queries, or requests to use any part of this Web Site can be directed to us via <a href="mailto:webmaster@percentagecalculator.co.za?Subject=PrivacyPolicy" target="_top">email</a></p>
 
                   <p><b>PRIVACY POLICY Percentage</b></p>
                   <p>Calculator respects your privacy and is committed to keeping your information confidential. Generally, you can visit our Web Site without having to divulge any personal information about yourself. However, while using this Web Site you may provide information about yourself or it may be collected by us.</p>
