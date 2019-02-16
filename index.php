@@ -6,9 +6,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Simple calculator for calculating PAYE for 2019.">
+    <meta name="description" content="A Basic Calculator for working out the percentage of an amount.">
     <meta name="author" content="">
-    <title>South African PAYE Calculator | PAYE on Monthly Taxable Income</title>
+    <title>A Simple Percentage Calculator</title>
     <link rel="shortcut icon" href="" />
     <link rel="stylesheet" href="css/bootstrap.css" />
     <link rel="stylesheet" href="css/bootstrap-theme.css" />
@@ -26,14 +26,14 @@
     <div id=wrap>
         <div class="container">
             <div class="jumbotron" style="margin-top:30px">
-                <h2>PAYE Calculator Tax Year 2019 - including UIF</h2>
+                <h2>Calculate how much a % of an amount is:</h2>
             </div>
 
             <div class="row">
               <div class="col-md-6">
                 <div class="panel panel-default">
                   <div class="panel-heading">
-                    <h3 class="panel-title">Monthly Income</h3>
+                    <h3 class="panel-title">Percentage Calculator</h3>
                   </div>
                   <div class="panel-body">
                     <form id="calcForm">
