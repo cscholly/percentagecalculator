@@ -14,29 +14,29 @@
 
     <?php include ( 'includes/header.php'); ?>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" role="navigation">
-        <div class="container">
-          <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="https://www.percentagecalculator.co.za">Percentage Calculator</a>
-          </div>
-
-          <div class="collapse navbar-collapse">
-              <ul class="nav navbar-nav">
-                  <li <?php if ($page=='index.php' ) { ?>class="active"
-                  <?php } ?>><a href="index.php">Percentage Calculator <span class="label label-info">New</a></a></li>
-                  <li <?php if ($page=='percentage-calculator-info.php' ) { ?>class="active"
-                  <?php } ?>><a href="percentage-calculator-info.php">Useful Calculation Information</a></li>
-                  <li><a href="mailto:help@percentagecalculator.co.za">Suggestions?</a></li>
-              </ul>
-          </div>
-        </div>
+    <nav class="navbar fixed-top navbar-light bg-light">
+      <a class="navbar-brand" href="#">Fixed top</a>
     </nav>
+
+
+    <!-- <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="#">Features</a>
+                <a class="nav-item nav-link" href="#">Pricing</a>
+                <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+              </div>
+            </div>
+          </nav>
+        </div>
+    </nav> -->
 
     <div id=wrap>
         <div class="container-fluid">
