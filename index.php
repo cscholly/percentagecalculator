@@ -33,24 +33,25 @@
                   <div class="card-body">
                     <form id="calcForm">
                       <div id="calcbox">
-                        <div class="form-group" style="margin-bottom: 0px;">
-                          <div class="input-group" style="margin-bottom:10px;">
-                            <span class="input-group-addon">R</span>
-                            <input type="text" class="form-control" aria-label="Percentage Amount" id="monthlyIncome">
+                        <div class="input-group flex-nowrap">
+                          <div class="input-group-prepend">
+                            <span class="input-group-text" id="addon-wrapping">@</span>
                           </div>
-                          <div class="input-group" style="margin-bottom:10px;">
-                            <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
-                          </div>
-                          <div style="margin-top:10px">
-                            <button type="submit" class="btn btn-primary" onclick="payeCalc(); return false;">Calculate Tax</button>
-                            <button type="submit" class="btn btn-default" onclick="resetCalc(); return false;">Clear</button>
-                          </div>
+                          <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+                        </div>
+                        <div class="input-group" style="margin-bottom:10px;">
+                          <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
+                        </div>
+                        <div style="margin-top:10px">
+                          <button type="submit" class="btn btn-primary" onclick="payeCalc(); return false;">Calculate Tax</button>
+                          <button type="submit" class="btn btn-default" onclick="resetCalc(); return false;">Clear</button>
                         </div>
                       </div>
-                    </form>
-                  </div>
+                    </div>
+                  </form>
                 </div>
               </div>
+            </div>
               <div class="col-md-6">
                 <div id="addResult" class="card">
                   <div class="card-body">
