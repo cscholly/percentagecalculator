@@ -14,9 +14,9 @@
 
     <?php include ( 'includes/header.php'); ?>
 
-    <!-- Menu start -->
+    <!-- Navbar start -->
     <?php include ( 'includes/menu.php'); ?>
-    <!-- Menu end -->
+    <!-- Navbar end -->
 
     <div id=wrap>
       <div class="container">
