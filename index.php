@@ -42,7 +42,7 @@
                             <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
                           </div>
                           <div style="margin-top:10px">
-                            <button type="submit" class="btn btn-default" onclick="payeCalc(); return false;">Calculate Tax</button>
+                            <button type="submit" class="btn btn-primary" onclick="payeCalc(); return false;">Calculate Tax</button>
                             <button type="submit" class="btn btn-default" onclick="resetCalc(); return false;">Clear</button>
                           </div>
                         </div>
