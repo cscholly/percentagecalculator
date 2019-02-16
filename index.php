@@ -33,11 +33,10 @@
                   <div class="card-body">
                     <form id="calcForm">
                       <div id="calcbox">
-                        <div class="input-group flex-nowrap">
-                          <div class="input-group">
-                            <span class="input-group-text" id="addon-wrapping"></span>
-                          </div>
-                          <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+                        <div class="form-group">
+                          <label for="exampleInputEmail1">Email address</label>
+                          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                         </div>
                         <div class="input-group" style="margin-bottom:10px;">
                           <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
