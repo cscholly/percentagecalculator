@@ -61,15 +61,15 @@
                   <div class="panel-body">
                     <table class="table" style="margin-bottom: 5px;">
                       <tr>
-                        <td>Annual Income Equivelant</td>
+                        <td>Original Amount</td>
                         <td class="text-right"><span id=annualIncome>0.00</span></td>
                       </tr>
                       <tr>
-                        <td>Annual Tax</td>
+                        <td>Percentage Chosen</td>
                         <td class="text-right"><span id=annualTax>0.00</span></td>
                       </tr>
                       <tr>
-                        <td>Monthly Taxable Income</td>
+                        <td>Amount</td>
                         <td class="text-right"><span id=monthlyInc>0.00</span></td>
                       </tr>
                       <tr>
@@ -77,11 +77,7 @@
                         <td class="text-right"><span id=monthlyTax>0.00</span></td>
                       </tr>
                       <tr>
-                        <td>Monthly UIF</td>
-                        <td class="text-right"><span id=UIF>0.00</span></td>
-                      </tr>
-                      <tr>
-                        <td><strong>Netto Income</strong> (after PAYE and UIF is deducted)</td>
+                        <td><strong>Netto Income</strong></td>
                         <td class="text-right"><strong><span id=nettoIncome>0.00</span></strong></td>
                       </tr>
                     </table>
