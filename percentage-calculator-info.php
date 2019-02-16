@@ -10,8 +10,6 @@
     <meta name="author" content="">
     <title>Percentage Calculator</title>
     <link rel="shortcut icon" href="" />
-    <link rel="stylesheet" href="css/bootstrap.css" />
-    <link rel="stylesheet" href="css/bootstrap-theme.css" />
     <link rel="stylesheet" href="css/custom.css" />
 
     <?php include ( 'includes/header.php'); ?>
