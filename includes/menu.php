@@ -5,15 +5,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="http://www.payecalculator.co.za">PAYE Calculator for 2019</a>
+    <a class="navbar-brand" href="https://www.percentagecalculator.co.za">Percentage Calculator</a>
 </div>
 
 <div class="collapse navbar-collapse">
     <ul class="nav navbar-nav">
         <li <?php if ($page=='index.php' ) { ?>class="active"
-        <?php } ?>><a href="index.php">PAYE Calculator <span class="label label-info">Updated for 2019</a></a></li>
+        <?php } ?>><a href="index.php">Percentage Calculator <span class="label label-info">New</a></a></li>
         <li <?php if ($page=='paye-information.php' ) { ?>class="active"
-        <?php } ?>><a href="paye-information.php">Useful PAYE Information</a></li>
-        <li><a href="mailto:help@payecalculator.co.za">Suggestions?</a></li>
+        <?php } ?>><a href="paye-information.php">Useful Calculation Information</a></li>
+        <li><a href="mailto:help@percentagecalculator.co.za">Suggestions?</a></li>
     </ul>
 </div>

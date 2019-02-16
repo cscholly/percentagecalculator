@@ -41,22 +41,13 @@
                         <div class="form-group" style="margin-bottom: 0px;">
                           <div class="input-group" style="margin-bottom:10px;">
                             <span class="input-group-addon">R</span>
-                            <input type="text" class="form-control" aria-label="Amount (to the nearest rand)" id="monthlyIncome">
+                            <input type="text" class="form-control" aria-label="Percentage Amount" id="monthlyIncome">
                           </div>
-                          <div class="btn-group" data-toggle="buttons">
-                            <label class="btn btn-default">
-                              <input type="radio" data-toggle="button" name="age" value="1"> Younger than 65 years
-                            </label>
-                            <label class="btn btn-default">
-                              <input type="radio" name="age" value="2"> Between 65 and 75 years
-                            </label>
-                            <label class="btn btn-default">
-                              <input type="radio" name="age" value="3"> Older than 75 years
-                            </label>
+                          <div class="input-group" style="margin-bottom:10px;">
+                            <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
                           </div>
-
                           <div style="margin-top:10px">
-                            <!--                                            <button type="submit" class="btn btn-default" onclick="payeCalc(); return false;">Calculate Tax</button>-->
+                            <!-- <button type="submit" class="btn btn-default" onclick="payeCalc(); return false;">Calculate Tax</button>-->
                             <button type="submit" class="btn btn-default" onclick="resetCalc(); return false;">Clear</button>
                           </div>
                         </div>
