@@ -35,7 +35,7 @@
                       <div id="calcbox">
                         <div class="input-group flex-nowrap">
                           <div class="input-group-append">
-                            <span class="input-group-text" id="addon-wrapping">&</span>
+                            <span class="input-group-text" id="addon-wrapping">%</span>
                           </div>
                           <input type="text" class="form-control" placeholder="Amount" aria-label="Username" aria-describedby="addon-wrapping">
                         </div>
