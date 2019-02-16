@@ -27,40 +27,25 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <div class="card">
-              <div class="card-body">
-                This is some text within a card body.
-              </div>
-            </div>
-            <div class="col">
-              <div class="card">
-                <div class="card-body">
-                  This is some text within a card body.
-                </div>
-              </div>
-            </div>
+            1 of 2
+          </div>
+          <div class="col">
+            2 of 2
           </div>
         </div>
         <div class="row">
           <div class="col">
-            <div class="card-body text-center">
-              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-              <!-- PAYE - Responsive -->
-              <ins class="adsbygoogle"
-              style="display:block"
-              data-ad-client="ca-pub-0590369945323371"
-              data-ad-slot="8869708491"
-              data-ad-format="auto"
-              data-full-width-responsive="true"></ins>
-              <script>
-              (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
-            </div>
+            1 of 3
+          </div>
+          <div class="col">
+            2 of 3
+          </div>
+          <div class="col">
+            3 of 3
           </div>
         </div>
       </div>
     </div>
-  </div>
       <!-- wrap end -->
 
     <!-- footer start -->
