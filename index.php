@@ -52,8 +52,8 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <div id="addResult" class="panel panel-default">
-                  <div class="panel-body">
+                <div id="addResult" class="card">
+                  <div class="card-body">
                     <table class="table" style="margin-bottom: 5px;">
                       <tr>
                         <td>Original Amount</td>
@@ -80,8 +80,8 @@
                 </div>
               </div>
             </div>
-            <div class="panel panel-default">
-              <div class="panel-body text-center">
+            <div class="card">
+              <div class="card-body text-center">
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- PAYE - Responsive -->
                 <ins class="adsbygoogle"
