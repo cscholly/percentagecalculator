@@ -34,8 +34,8 @@
                     <form id="calcForm">
                       <div id="calcbox">
                         <div class="input-group flex-nowrap">
-                          <div class="input-group-prepend">
-                            <span class="input-group-text" id="addon-wrapping">@</span>
+                          <div class="input-group">
+                            <span class="input-group-text" id="addon-wrapping"></span>
                           </div>
                           <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
                         </div>
