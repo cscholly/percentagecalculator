@@ -23,43 +23,44 @@
         <div class="jumbotron" style="margin-top:30px">
           <h2 text align="center" >Calculate how much a % of an amount is:</h2>
         </div>
-        <div class="container">
-          <div class="row">
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="card">
+              <div class="card-body">
+                This is some text within a card body.
+              </div>
+            </div>
             <div class="col">
               <div class="card">
                 <div class="card-body">
                   This is some text within a card body.
                 </div>
               </div>
-              <div class="col">
-                <div class="card">
-                  <div class="card-body">
-                    This is some text within a card body.
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col">
-              <div class="card-body text-center">
-                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- PAYE - Responsive -->
-                <ins class="adsbygoogle"
-                style="display:block"
-                data-ad-client="ca-pub-0590369945323371"
-                data-ad-slot="8869708491"
-                data-ad-format="auto"
-                data-full-width-responsive="true"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
-              </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <div class="card-body text-center">
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <!-- PAYE - Responsive -->
+              <ins class="adsbygoogle"
+              style="display:block"
+              data-ad-client="ca-pub-0590369945323371"
+              data-ad-slot="8869708491"
+              data-ad-format="auto"
+              data-full-width-responsive="true"></ins>
+              <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+              </script>
             </div>
           </div>
         </div>
       </div>
     </div>
+  </div>
       <!-- wrap end -->
 
     <!-- footer start -->
