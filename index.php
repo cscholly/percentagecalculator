@@ -24,63 +24,6 @@
                 <h2>Calculate how much a % of an amount is:</h2>
             </div>
 
-            <div class="row">
-              <div class="col-md-6">
-                <div class="card">
-                  <div class="card-header">
-                    <h3 class="card-title">Percentage Calculator</h3>
-                  </div>
-                  <div class="card-body">
-                    <form id="calcForm">
-                      <div id="calcbox">
-                        <div class="input-group flex-nowrap">
-                          <div class="input-group-append">
-                            <span class="input-group-text" id="addon-wrapping">%</span>
-                          </div>
-                          <input type="text" class="form-control" placeholder="Amount" aria-label="Username" aria-describedby="addon-wrapping">
-                        </div>
-                        <div class="input-group" style="margin-bottom:10px;">
-                          <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
-                        </div>
-                        <div style="margin-top:10px">
-                          <button type="submit" class="btn btn-primary" onclick="payeCalc(); return false;">Calculate Tax</button>
-                          <button type="submit" class="btn btn-default" onclick="resetCalc(); return false;">Clear</button>
-                        </div>
-                      </div>
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-              <div class="col-md-6">
-                <div id="addResult" class="card">
-                  <div class="card-body">
-                    <table class="table" style="margin-bottom: 5px;">
-                      <tr>
-                        <td>Original Amount</td>
-                        <td class="text-right"><span id=annualIncome>0.00</span></td>
-                      </tr>
-                      <tr>
-                        <td>Percentage Chosen</td>
-                        <td class="text-right"><span id=annualTax>0.00</span></td>
-                      </tr>
-                      <tr>
-                        <td>Amount</td>
-                        <td class="text-right"><span id=monthlyInc>0.00</span></td>
-                      </tr>
-                      <tr>
-                        <td>Monthly PAYE</td>
-                        <td class="text-right"><span id=monthlyTax>0.00</span></td>
-                      </tr>
-                      <tr>
-                        <td><strong>Netto Income</strong></td>
-                        <td class="text-right"><strong><span id=nettoIncome>0.00</span></strong></td>
-                      </tr>
-                    </table>
-                  </div>
-                </div>
-              </div>
-            </div>
             <div class="card">
               <div class="card-body text-center">
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
