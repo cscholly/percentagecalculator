@@ -47,7 +47,7 @@
                             <input type="text" class="form-control" aria-label="Amount" id="monthlyIncome">
                           </div>
                           <div style="margin-top:10px">
-                            <!-- <button type="submit" class="btn btn-default" onclick="payeCalc(); return false;">Calculate Tax</button>-->
+                            <button type="submit" class="btn btn-default" onclick="payeCalc(); return false;">Calculate Tax</button>
                             <button type="submit" class="btn btn-default" onclick="resetCalc(); return false;">Clear</button>
                           </div>
                         </div>
@@ -85,8 +85,7 @@
                 </div>
               </div>
             </div>
-            <!-- Adsense Desktop Start -->
-            <div class="panel panel-default hidden-xs hidden-sm">
+            <div class="panel panel-default">
               <div class="panel-body text-center">
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- PAYE - Responsive -->

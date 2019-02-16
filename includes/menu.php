@@ -12,8 +12,8 @@
     <ul class="nav navbar-nav">
         <li <?php if ($page=='index.php' ) { ?>class="active"
         <?php } ?>><a href="index.php">Percentage Calculator <span class="label label-info">New</a></a></li>
-        <li <?php if ($page=='paye-information.php' ) { ?>class="active"
-        <?php } ?>><a href="paye-information.php">Useful Calculation Information</a></li>
+        <li <?php if ($page=='percentage-calculator-info.php' ) { ?>class="active"
+        <?php } ?>><a href="percentage-calculator-info.php">Useful Calculation Information</a></li>
         <li><a href="mailto:help@percentagecalculator.co.za">Suggestions?</a></li>
     </ul>
 </div>
