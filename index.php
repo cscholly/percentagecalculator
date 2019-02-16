@@ -21,7 +21,9 @@
     <div id=wrap>
         <div class="container">
             <div class="jumbotron" style="margin-top:30px">
-                <h2>Calculate how much a % of an amount is:</h2>
+                <h2 text align="center" >Calculate how much a % of an amount is:</h2>
+            </div>
+            <div class="card">
             </div>
 
             <div class="card">
