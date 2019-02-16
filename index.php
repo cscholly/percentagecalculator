@@ -15,7 +15,7 @@
     <?php include ( 'includes/header.php'); ?>
 
     <nav class="navbar fixed-top navbar-light bg-light">
-      <a class="navbar-brand" href="#">Fixed top</a>
+      <span class="navbar-brand mb-0 h1">Navbar</span>
     </nav>
 
 
@@ -39,7 +39,7 @@
     </nav> -->
 
     <div id=wrap>
-        <div class="container-fluid">
+        <div class="container">
             <div class="jumbotron" style="margin-top:30px">
                 <h2>Calculate how much a % of an amount is:</h2>
             </div>
