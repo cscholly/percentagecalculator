@@ -78,14 +78,7 @@
 
 </body>
 
-<!-- VAT calculation scripts -->
+<!-- Percentage calculation scripts -->
 <script src="js/calculation.js"></script>
-
-<!-- Initialize Popover -->
-<script>
-$(document).ready(function() {
-  $('[data-toggle="popover"]').popover();
-});
-</script>
 
 </html>
