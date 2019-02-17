@@ -29,7 +29,7 @@
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
-                Quote
+                Enter Your Question
               </div>
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
@@ -42,7 +42,7 @@
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
-                Quote
+                Result and Calculation
               </div>
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
