@@ -26,7 +26,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-sm">
+          <div class="col-sm style="margin-top:30px">
             <div class="card">
               <div class="card-header">
                 Quote
