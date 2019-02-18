@@ -10,7 +10,6 @@
     <meta name="author" content="">
     <title>A Simple Percentage Calculator</title>
     <link rel="shortcut icon" href="" />
-    <link rel="stylesheet" href="css/custom.css" />
 
     <?php include ( 'includes/header.php'); ?>
 
