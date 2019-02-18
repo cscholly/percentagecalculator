@@ -46,7 +46,7 @@ code {
     border-bottom: 1px solid #dee2e6;
 }
 
-#summary>tbody>tr:last-child {
+#summary>tr:last-child {
   padding: 10rem;
   vertical-align: top;
   border-bottom: 0px solid #dee2e6;
