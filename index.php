@@ -45,7 +45,6 @@
               </div>
               <div class="card-body">
                 <table id="summary" class="table" style="margin-bottom: 5px;">
-                  <tbody>
                     <tr>
                         <td>Amount excluding VAT</td>
                         <td class="text-right"><span id=exclude_vat>0.00</span></td>
@@ -58,7 +57,6 @@
                         <td><strong>Amount including VAT</strong></td>
                         <td class="text-right"><strong><span id=include_vat>0.00</span></strong></td>
                     </tr>
-                  </tbody>
                 </table>
               </div>
             </div>
