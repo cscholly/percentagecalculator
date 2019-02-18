@@ -38,3 +38,9 @@ body > .container {
 code {
   font-size: 80%;
 }
+
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-bottom: 1px solid #dee2e6;
+}
