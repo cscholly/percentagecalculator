@@ -32,9 +32,14 @@
               </div>
               <div class="card-body">
                 <div class="input-group">
-                  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+                  <input type="text" class="form-control" aria-label="Percentage">
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
+                  </div>
+                  <div class="input-group">
+                    <input type="text" class="form-control" aria-label="Amount">
+                    <div class="input-group-append">
+                    </div>
                   </div>
                 </div>
               </div>
