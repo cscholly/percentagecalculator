@@ -45,10 +45,20 @@
                 Result and Calculation
               </div>
               <div class="card-body">
-                <blockquote class="blockquote mb-0">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                </blockquote>
+                <table class="table" style="margin-bottom: 5px;">
+                    <tr>
+                        <td>Amount excluding VAT</td>
+                        <td class="text-right"><span id=exclude_vat>0.00</span></td>
+                    </tr>
+                    <tr>
+                        <td>VAT portion (15%)</td>
+                        <td class="text-right"><span id=vat>0.00</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Amount including VAT</strong></td>
+                        <td class="text-right"><strong><span id=include_vat>0.00</span></strong></td>
+                    </tr>
+                </table>
               </div>
             </div>
           </div>
