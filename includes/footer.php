@@ -1,8 +1,10 @@
 
+
+<!-- Initialize Popover -->
 <script>
-$(function () {
-  $('[data-toggle="popover"]').popover()
-})
+$(document).ready(function() {
+  $('[data-toggle="popover"]').popover();
+});
 </script>
 
 <footer class="footer mt-auto py-3">
