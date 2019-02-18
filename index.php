@@ -34,8 +34,7 @@
                 <div class="input-group">
                   <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
                   <div class="input-group-append">
-                    <span class="input-group-text">$</span>
-                    <span class="input-group-text">0.00</span>
+                    <span class="input-group-text">%</span>
                   </div>
                 </div>
               </div>
