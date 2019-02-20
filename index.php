@@ -31,7 +31,7 @@
                 What is
               </div>
               <div class="card-body">
-                <div class="input-group">
+                <div class="input-group row">
                   <input type="text" class="form-control" aria-label="Percentage">
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
@@ -39,7 +39,7 @@
                   <div>
                     <p class="row lead text-center" >of</p>
                   </div>
-                  <div class="input-group" style="margin-top: 20px;">
+                  <div class="input-group row" style="margin-top: 20px;">
                     <input type="text" class="form-control" aria-label="Amount">
                     <div class="input-group-append">
                     </div>
