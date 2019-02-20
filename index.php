@@ -40,11 +40,12 @@
                     <span class="input-group-text">%</span>
                   </div>
                   <div class="w-100 lead center" style="margin top:20px">of</div>
-                  <div class="input-group" style="margin-top: 20px;">
-                    <input type="text" class="form-control" placeholder="Amount" aria-label="Amount">
-                    <div class="input-group-append">
-                    </div>
-                  </div>
+                  <span class="input-group-text">of this amount</span>
+                </div>
+                <input type="text" class="form-control" placeholder="PAmount" aria-label="Amount" aria-describedby="basic-addon1">
+                <div class="input-group-append">
+                  <span class="input-group-text">%</span>
+                </div>
                 </div>
               </div>
             </div>
