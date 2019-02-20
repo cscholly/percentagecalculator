@@ -33,7 +33,7 @@
               <div class="card-body">
                 <div class="input-group">
                   <div class="input-group-prepend">
-                    <span class="input-group-text" id="basic-addon1">What is</span>
+                    <span class="input-group-text">What is</span>
                   </div>
                   <input type="text" class="form-control" placeholder="Percentage Amount" aria-label="Percentage Amount" aria-describedby="basic-addon1">
                   <div class="input-group-append">
@@ -41,7 +41,7 @@
                   </div>
                   <div class="w-100 lead center" style="margin top:20px">of</div>
                   <div class="input-group" style="margin-top: 20px;">
-                    <input type="text" class="form-control" aria-label="Amount">
+                    <input type="text" class="form-control" placeholder="Amount" aria-label="Amount">
                     <div class="input-group-append">
                     </div>
                   </div>
