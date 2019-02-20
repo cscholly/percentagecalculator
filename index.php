@@ -36,6 +36,9 @@
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
+                  <div>
+                    <p>of</p>
+                  </div>
                   <div class="input-group" style="margin-top: 20px;">
                     <input type="text" class="form-control" aria-label="Amount">
                     <div class="input-group-append">
