@@ -40,7 +40,7 @@
                     <span class="input-group-text">%</span>
                   </div>
                   <div class="w-100 lead" style="margin-top:20px">of</div>
-                  <div class="input-group-prepend" style="margin-top:20px">
+                  <div class="input-group-prepend">
                     <span class="input-group-text">of this amount</span>
                   </div>
                   <input type="text" class="form-control" placeholder="Amount" aria-label="Amount" aria-describedby="basic-addon1">
