@@ -50,7 +50,7 @@
                 </div>
                 <div style="margin-top:10px">
                   <button type="button" class="btn btn-primary btn-lg btn-block" onclick="percentageCalc(); return false;">Submit</button>
-</div>
+                </div>
               </div>
             </div>
           </div>
