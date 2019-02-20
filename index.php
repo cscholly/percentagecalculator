@@ -36,6 +36,9 @@
                     <span class="input-group-text" id="basic-addon1">What is</span>
                   </div>
                   <input type="text" class="form-control" placeholder="Percentage Amount" aria-label="Percentage Amount" aria-describedby="basic-addon1">
+                  <div class="input-group-append">
+                    <span class="input-group-text">.00</span>
+                  </div>
                   <div class="w-100 lead center">of</div>
                   <div class="input-group" style="margin-top: 20px;">
                     <input type="text" class="form-control" aria-label="Amount">
