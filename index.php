@@ -42,7 +42,7 @@
                   </div>
                 </div>
 
-                <div class="w-100 lead" style="margin-top:20px">of</div>
+                <div class="w-100 lead" style="margin-top:20px; text-align:center">of</div>
 
                 <div class="input-group" style="margin-top:20px">
                   <div class="input-group-prepend">
