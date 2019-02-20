@@ -39,7 +39,7 @@
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
-                  <div class="w-100 lead center" style="margin top:20px">of</div>
+                  <div class="w-100 lead" style="margin-top:20px; align:center">of</div>
                   <div class="input-group-prepend">
                     <span class="input-group-text">of this amount</span>
                   </div>
