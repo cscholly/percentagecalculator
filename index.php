@@ -48,9 +48,6 @@
                     <span class="input-group-text">of this amount</span>
                   </div>
                   <input type="text" class="form-control" aria-label="Amount" aria-describedby="basic-addon1">
-                  <div class="input-group-append">
-                    <span class="input-group-text">%</span>
-                  </div>
                 </div>
               </div>
             </div>
