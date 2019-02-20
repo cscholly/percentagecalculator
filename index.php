@@ -39,7 +39,11 @@
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
-                  <div class="w-100 lead" style="margin-top:20px">of</div>
+                </div>
+
+                <div class="w-100 lead" style="margin-top:20px">of</div>
+
+                <div class="input-group">
                   <div class="input-group-prepend">
                     <span class="input-group-text">of this amount</span>
                   </div>
@@ -51,6 +55,7 @@
               </div>
             </div>
           </div>
+        </div>
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
