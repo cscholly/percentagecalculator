@@ -28,7 +28,7 @@
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
-                Enter Your Question
+                What is
               </div>
               <div class="card-body">
                 <div class="input-group">
@@ -51,21 +51,21 @@
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
-                Result and Calculation
+                Calculation and Result
               </div>
               <div class="card-body">
                 <table id="summary" class="table" style="margin-bottom: 5px;">
                     <tr>
-                        <td>Amount excluding VAT</td>
-                        <td class="text-right"><span id=exclude_vat>0.00</span></td>
+                        <td>What is</td>
+                        <td class="text-right"><span id=percentage>0.00</span></td>
                     </tr>
                     <tr>
-                        <td>VAT portion (15%)</td>
-                        <td class="text-right"><span id=vat>0.00</span></td>
+                        <td>of this amount</td>
+                        <td class="text-right"><span id=given_amount>0.00</span></td>
                     </tr>
                     <tr>
-                        <td><strong>Amount including VAT</strong></td>
-                        <td class="text-right"><strong><span id=include_vat>0.00</span></strong></td>
+                        <td><strong>the answer is</strong></td>
+                        <td class="text-right"><strong><span id=percentage_amount>0.00</span></strong></td>
                     </tr>
                 </table>
               </div>
