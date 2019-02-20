@@ -36,7 +36,7 @@
                   <div class="input-group-prepend">
                     <span class="input-group-text">What is</span>
                   </div>
-                  <input type="text" class="form-control" aria-label="Percentage Amount" aria-describedby="basic-addon1">
+                  <input id="percentage" type="text" class="form-control" aria-label="Percentage Amount" aria-describedby="basic-addon1">
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
@@ -46,7 +46,7 @@
                   <div class="input-group-prepend">
                     <span class="input-group-text">of this amount</span>
                   </div>
-                  <input type="text" class="form-control" aria-label="Amount" aria-describedby="basic-addon1">
+                  <input id="percentage" type="text" class="form-control" aria-label="Amount" aria-describedby="basic-addon1">
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@
               </div>
               <div class="card-body">
                 <p class="lead">
-                  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+                  <span id="percentageResult">%</span> of <span id="amountResult">0</span> is <span id="answer">0</span>.
                 </p>
               </div>
             </div>
