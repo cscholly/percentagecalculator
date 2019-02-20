@@ -35,7 +35,7 @@
                   <div class="input-group-prepend">
                     <span class="input-group-text">What is</span>
                   </div>
-                  <input type="text" class="form-control" placeholder="Percentage Amount" aria-label="Percentage Amount" aria-describedby="basic-addon1">
+                  <input type="text" class="form-control" aria-label="Percentage Amount" aria-describedby="basic-addon1">
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
@@ -43,7 +43,7 @@
                   <div class="input-group-prepend">
                     <span class="input-group-text">of this amount</span>
                   </div>
-                  <input type="text" class="form-control" placeholder="Amount" aria-label="Amount" aria-describedby="basic-addon1">
+                  <input type="text" class="form-control" aria-label="Amount" aria-describedby="basic-addon1">
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
