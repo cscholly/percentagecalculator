@@ -43,7 +43,7 @@
 
                 <div class="w-100 lead" style="margin-top:20px">of</div>
 
-                <div class="input-group">
+                <div class="input-group" style="margin-top:20px">
                   <div class="input-group-prepend">
                     <span class="input-group-text">of this amount</span>
                   </div>
