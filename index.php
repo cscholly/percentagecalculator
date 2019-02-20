@@ -53,31 +53,31 @@
               </div>
             </div>
           </div>
-        <div class="col-sm" style="margin-top:30px">
-          <div class="card">
-            <div class="card-header">
-              Calculation and Result
-            </div>
-            <div class="card-body">
-              <table id="summary" class="table" style="margin-bottom: 5px;">
-                <tr>
-                  <td>What is</td>
-                  <td class="text-right"><span id=percentage>0</span>%</td>
-                </tr>
-                <tr>
-                  <td>of this amount</td>
-                  <td class="text-right"><span id=given_amount>0.00</span></td>
-                </tr>
-                <tr>
-                  <td><strong>the answer is</strong></td>
-                  <td class="text-right"><strong><span id=percentage_amount>0.00</span></strong></td>
-                </tr>
-              </table>
+          <div class="col-sm" style="margin-top:30px">
+            <div class="card">
+              <div class="card-header">
+                Calculation and Result
+              </div>
+              <div class="card-body">
+                <table id="summary" class="table" style="margin-bottom: 5px;">
+                  <tr>
+                    <td>What is</td>
+                    <td class="text-right"><span id=percentage>0</span>%</td>
+                  </tr>
+                  <tr>
+                    <td>of this amount</td>
+                    <td class="text-right"><span id=given_amount>0.00</span></td>
+                  </tr>
+                  <tr>
+                    <td><strong>the answer is</strong></td>
+                    <td class="text-right"><strong><span id=percentage_amount>0.00</span></strong></td>
+                  </tr>
+                </table>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
       <div class="container">
         <div class="row" style="margin-top:30px">
           <div class="col">
