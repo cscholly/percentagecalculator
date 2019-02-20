@@ -57,20 +57,9 @@
                 Calculation and Result
               </div>
               <div class="card-body">
-                <table id="summary" class="table" style="margin-bottom: 5px;">
-                  <tr>
-                    <td>What is</td>
-                    <td class="text-right"><span id=percentage>0</span>%</td>
-                  </tr>
-                  <tr>
-                    <td>of this amount</td>
-                    <td class="text-right"><span id=given_amount>0.00</span></td>
-                  </tr>
-                  <tr>
-                    <td><strong>the answer is</strong></td>
-                    <td class="text-right"><strong><span id=percentage_amount>0.00</span></strong></td>
-                  </tr>
-                </table>
+                <p class="lead">
+                  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+                </p>
               </div>
             </div>
           </div>
