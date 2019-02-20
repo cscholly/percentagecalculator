@@ -39,9 +39,7 @@
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
-                </div>
-                <div class="w-100 lead center" style="margin top:20px">of</div>
-                <div class="input-group">
+                  <div class="w-100 lead center" style="margin top:20px">of</div>
                   <div class="input-group-prepend">
                     <span class="input-group-text">What is</span>
                   </div>
@@ -49,6 +47,7 @@
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
+
                 </div>
               </div>
             </div>
