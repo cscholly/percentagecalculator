@@ -54,7 +54,7 @@
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
-                Calculation and Result
+                Result
               </div>
               <div class="card-body">
                 <p class="lead">
