@@ -41,13 +41,12 @@
                   </div>
                   <div class="w-100 lead center" style="margin top:20px">of</div>
                   <div class="input-group-prepend">
-                    <span class="input-group-text">What is</span>
+                    <span class="input-group-text">of this amount</span>
                   </div>
-                  <input type="text" class="form-control" placeholder="Percentage Amount" aria-label="Percentage Amount" aria-describedby="basic-addon1">
+                  <input type="text" class="form-control" placeholder="Amount" aria-label="Amount" aria-describedby="basic-addon1">
                   <div class="input-group-append">
                     <span class="input-group-text">%</span>
                   </div>
-
                 </div>
               </div>
             </div>
