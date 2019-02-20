@@ -28,15 +28,15 @@
           <div class="col-sm" style="margin-top:30px">
             <div class="card">
               <div class="card-header">
-                What is
+                Calculate percentage of an amount
               </div>
               <div class="card-body">
                 <div class="input-group">
-                  <input type="text" class="form-control" aria-label="Percentage">
-                  <div class="input-group-append">
-                    <span class="input-group-text">%</span>
+                  <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">What is</span>
                   </div>
-                      <div class="w-100 lead center">of</div>
+                  <input type="text" class="form-control" placeholder="Percentage Amount" aria-label="Percentage Amount" aria-describedby="basic-addon1">
+                  <div class="w-100 lead center">of</div>
                   <div class="input-group" style="margin-top: 20px;">
                     <input type="text" class="form-control" aria-label="Amount">
                     <div class="input-group-append">
