@@ -94,8 +94,6 @@
         </div>
       </div>
     </div>
-  </div>
-</div>
 <!-- wrap end -->
 
     <!-- footer start -->
