@@ -17,6 +17,7 @@
     <?php include ( 'includes/menu.php'); ?>
     <!-- Navbar end -->
 
+<!-- wrap start -->
     <div id=wrap>
       <div class="container">
         <div class="jumbotron" style="margin-top:30px">
@@ -53,47 +54,49 @@
             </div>
           </div>
         </div>
-          <div class="col-sm" style="margin-top:30px">
-            <div class="card">
-              <div class="card-header">
-                Calculation and Result
-              </div>
-              <div class="card-body">
-                <table id="summary" class="table" style="margin-bottom: 5px;">
-                    <tr>
-                        <td>What is</td>
-                        <td class="text-right"><span id=percentage>0</span>%</td>
-                    </tr>
-                    <tr>
-                        <td>of this amount</td>
-                        <td class="text-right"><span id=given_amount>0.00</span></td>
-                    </tr>
-                    <tr>
-                        <td><strong>the answer is</strong></td>
-                        <td class="text-right"><strong><span id=percentage_amount>0.00</span></strong></td>
-                    </tr>
-                </table>
-              </div>
+        <div class="col-sm" style="margin-top:30px">
+          <div class="card">
+            <div class="card-header">
+              Calculation and Result
             </div>
-          </div>
-        </div>
-        <div class="row" style="margin-top:30px">
-          <div class="col">
-            <div class="card">
-              <div class="card-header">
-                Quote
-              </div>
-              <div class="card-body">
-                <blockquote class="blockquote mb-0">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                  <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-                </blockquote>
-              </div>
+            <div class="card-body">
+              <table id="summary" class="table" style="margin-bottom: 5px;">
+                <tr>
+                  <td>What is</td>
+                  <td class="text-right"><span id=percentage>0</span>%</td>
+                </tr>
+                <tr>
+                  <td>of this amount</td>
+                  <td class="text-right"><span id=given_amount>0.00</span></td>
+                </tr>
+                <tr>
+                  <td><strong>the answer is</strong></td>
+                  <td class="text-right"><strong><span id=percentage_amount>0.00</span></strong></td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
       </div>
-      <!-- wrap end -->
+      <div class="row" style="margin-top:30px">
+        <div class="col">
+          <div class="card">
+            <div class="card-header">
+              Quote
+            </div>
+            <div class="card-body">
+              <blockquote class="blockquote mb-0">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+              </blockquote>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- wrap end -->
 
     <!-- footer start -->
         <?php include ( 'includes/footer.php'); ?>
