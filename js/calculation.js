@@ -9,7 +9,7 @@
         //calculations
         var percentage = document.getElementById('percentage').value;
         var amount = document.getElementById('amount').value;
-        percentageAmountOf = (percentage/amount)*100;
+        percentageAmountOf = (amount*percentage)/100;
 
         document.getElementById('percentageResult').innerHTML = percentage;
         document.getElementById('amountResult').innerHTML = amount;
