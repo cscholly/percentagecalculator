@@ -37,7 +37,7 @@
                     <span class="input-group-text">%</span>
                   </div>
                   <div>
-                    <p>of</p>
+                    <p class="lead">of</p>
                   </div>
                   <div class="input-group" style="margin-top: 20px;">
                     <input type="text" class="form-control" aria-label="Amount">
@@ -57,7 +57,7 @@
                 <table id="summary" class="table" style="margin-bottom: 5px;">
                     <tr>
                         <td>What is</td>
-                        <td class="text-right"><span id=percentage>0.00</span></td>
+                        <td class="text-right"><span id=percentage>0</span>%</td>
                     </tr>
                     <tr>
                         <td>of this amount</td>
