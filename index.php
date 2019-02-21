@@ -61,7 +61,7 @@
               </div>
               <div class="card-body">
                 <p class="lead">
-                  <span id="percentageResult">"Some"</span>% of <span id="amountResult">"this amount"</span> is <span id="answer">"this one"</span>.
+                  <span id="percentageResult">A</span>% of <span id="amountResult">the amount you entered</span> is <span id="answer">going to be show here</span>.
                 </p>
               </div>
             </div>
