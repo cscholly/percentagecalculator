@@ -26,7 +26,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-sm" style="margin-top:30px">
+          <div class="col-sm" style="margin-top:10px">
             <div class="card">
               <div class="card-header">
                 Calculate percentage of an amount
@@ -61,7 +61,7 @@
               </div>
               <div class="card-body">
                 <p class="lead">
-                  <span id="percentageResult">"Some"</span>% of <span id="amountResult">"this amount"</span> is <span id="answer">"this one"</span>.
+                  <span id="percentageResult">The </span>% of <span id="amountResult">the amount you entered</span> is <span id="answer"><b>going to be shown here</b></span>.
                 </p>
               </div>
             </div>
@@ -72,12 +72,32 @@
         <div class="row" style="margin-top:30px">
           <div class="col">
             <div class="card">
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <!-- Percentage Calculator -->
+              <ins class="adsbygoogle"
+              style="display:block"
+              data-ad-client="ca-pub-0590369945323371"
+              data-ad-slot="8832257461"
+              data-ad-format="auto"
+              data-full-width-responsive="true"></ins>
+              <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </div>
+        </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row" style="margin-top:30px">
+          <div class="col">
+            <div class="card">
               <div class="card-header">
-                Note
+                Fun Facts
               </div>
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
-                  <p>This is just a first attempt at doing this page and calculation. More changes to come.</p>
+                  <p>When you say "Percent" you are actually saying "per 100" or /100 or % (see the 100 in the symbol?)</p>
+                  <p>"Percent" comes from the latin phrase Per Centum. The latin word Centum means 100, think in terms of a century - yes it equals 100 years!</p>
                 </blockquote>
               </div>
             </div>
