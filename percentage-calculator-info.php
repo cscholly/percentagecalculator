@@ -29,8 +29,7 @@
             <p>Written as an equation: B = P% * A</p>
             <p>The 'what' is B that we want to solve.</p>
             <p>First convert percentage to decimal, dividing it by 100,</p>
-            <p>Then multiply that amount by A</p>
-            <p>Like so: B = P% * A</p>
+            <p>then multiply that amount by A.</p>
 
             <h3>Example: What is 15% of 35?</h3>
 
