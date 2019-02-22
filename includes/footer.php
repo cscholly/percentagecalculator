@@ -9,9 +9,7 @@
 <!-- Initialize Popover -->
 <script>
 $(function () {
-  $('.example-popover').popover({
-    container: 'body'
-  })
+  $('[data-toggle="popover"]').popover()
 })
 
 $('.popover-dismiss').popover({
