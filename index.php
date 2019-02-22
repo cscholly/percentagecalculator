@@ -73,11 +73,11 @@
           <div class="col">
             <div class="card">
               <div class="card-header">
-                Note
+                Fun Fact
               </div>
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
-                  <p>This is just a first attempt at doing this page and calculation. More changes to come.</p>
+                  <p>When you say "Percent" you are actually saying per 100.  example /100 or % (see the 100 in the symbol?)</p>
                 </blockquote>
               </div>
             </div>
