@@ -26,7 +26,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-sm" style="margin-top:30px">
+          <div class="col-sm" style="margin-top:10px">
             <div class="card">
               <div class="card-header">
                 Calculate percentage of an amount
@@ -61,7 +61,7 @@
               </div>
               <div class="card-body">
                 <p class="lead">
-                  <span id="percentageResult">A</span>% of <span id="amountResult">the amount you entered</span> is <span id="answer">going to be show here</span>.
+                  <span id="percentageResult">The </span>% of <span id="amountResult">the amount you entered</span> is <span id="answer">going to be shown here</span>.
                 </p>
               </div>
             </div>
