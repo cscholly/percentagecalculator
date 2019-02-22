@@ -73,7 +73,7 @@
           <div class="col">
             <div class="card">
               <div class="card-header">
-                Fun Fact
+                Fun Facts
               </div>
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
