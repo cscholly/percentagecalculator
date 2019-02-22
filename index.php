@@ -77,7 +77,7 @@
               </div>
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
-                  <p>When you say "Percent" you are actually saying per 100.  example /100 or % (see the 100 in the symbol?)</p>
+                  <p>When you say "Percent" you are actually saying "per 100" or /100 or % (see the 100 in the symbol?)</p>
                 </blockquote>
               </div>
             </div>

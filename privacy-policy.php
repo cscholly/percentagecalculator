@@ -14,17 +14,14 @@
 
     <?php include ( 'includes/header.php'); ?>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <?php include ( 'includes/menu.php'); ?>
-            <!--.nav-collapse -->
-        </div>
-    </nav>
+    <!-- Navbar start -->
+    <?php include ( 'includes/menu.php'); ?>
+    <!-- Navbar end -->
 
     <div id=wrap>
         <div class="container">
             <div class="page-header">
-                <h1>Helpful information <small>What is South African Percentage all about?</small></h1>
+                <h1>Privacy <small>Policy</small></h1>
             </div>
             <div class="row">
                 <div class="col-md-12">
