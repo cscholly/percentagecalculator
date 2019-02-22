@@ -8,9 +8,9 @@
       <li class="nav-item active">
         <a class="nav-link" href="#">Try it! <span class="sr-only">(current)</span></a>
       </li>
-      <!-- <li class="nav-item">
+      <li class="nav-item">
         <a class="nav-link" href="/percentage-calculator-info.php">Percentage Calculator Info</a>
-      </li> -->
+      </li>
     </ul>
     <span class="navbar-text">
       Easily Calculate the % of any amount
