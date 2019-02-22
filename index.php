@@ -78,7 +78,7 @@
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
                   <p>When you say "Percent" you are actually saying "per 100" or /100 or % (see the 100 in the symbol?)</p>
-                  <p>"Percent" comes from the latin phrase Per Centum. The latin word Centum means 100, think in terms of century is 100 years.</p>
+                  <p>"Percent" comes from the latin phrase Per Centum. The latin word Centum means 100, think in terms of a century - yes it equals 100 years!</p>
                 </blockquote>
               </div>
             </div>

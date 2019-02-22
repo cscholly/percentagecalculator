@@ -22,16 +22,9 @@
       <div class="container">
         <div class="row" style="margin-top:30px">
           <div class="col">
-            <div class="card">
-              <div class="card-header">
-                Fun Fact
-              </div>
-              <div class="card-body">
-                <blockquote class="blockquote mb-0">
-                  <p>When you say "Percent" you are actually saying "per 100" or /100 or % (see the 100 in the symbol?)</p>
-                </blockquote>
-              </div>
-            </div>
+            <blockquote class="blockquote mb-0">
+              <p>When you say "Percent" you are actually saying "per 100" or /100 or % (see the 100 in the symbol?)</p>
+            </blockquote>
           </div>
         </div>
       </div>
