@@ -8,7 +8,7 @@
       <li <?php if ($page=='index.php' ) { ?>class="nav-item active"
       <?php } ?>><a class="nav-link" href="index.php">Try it!</a></li>
       <li <?php if ($page=='percentage-calculator-info.php' ) { ?>class="nav-item active"
-      <?php } ?>><a class="nav-link" href="percentage-calculator-info.php">Percentage Calculator Info</a></li>
+      <?php } ?>><a class="nav-link" href="percentage-calculator-info.php">How is this calculated?</a></li>
     </ul>
     <span class="navbar-text">
       Easily Calculate the % of any amount - it's quick!
