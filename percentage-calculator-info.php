@@ -6,9 +6,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A Basic Calculator for working out the percentage of an amount.">
+    <meta name="description" content="Here is the formula for working out the percentage of an amount.">
     <meta name="author" content="">
-    <title>A Simple Percentage Calculator</title>
+    <title>The formula to work out the percentage of an amount</title>
     <link rel="shortcut icon" href="" />
 
     <?php include ( 'includes/header.php'); ?>
