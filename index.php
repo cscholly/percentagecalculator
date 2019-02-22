@@ -72,6 +72,25 @@
         <div class="row" style="margin-top:30px">
           <div class="col">
             <div class="card">
+              <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <!-- Percentage Calculator -->
+              <ins class="adsbygoogle"
+              style="display:block"
+              data-ad-client="ca-pub-0590369945323371"
+              data-ad-slot="8832257461"
+              data-ad-format="auto"
+              data-full-width-responsive="true"></ins>
+              <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </div>
+        </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row" style="margin-top:30px">
+          <div class="col">
+            <div class="card">
               <div class="card-header">
                 Fun Facts
               </div>
